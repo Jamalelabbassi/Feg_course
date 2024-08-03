@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594860231426",
+    "project_id": "fegsuccess-3adf1",
+    "storage_bucket": "fegsuccess-3adf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594860231426:android:19f150903b46434279101b",
+        "android_client_info": {
+          "package_name": "com.example.feg_success"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594860231426-km29qe73t3s99hopc1ul3hokd42tqb2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqP-BMq-Mr6uvXo3iO8fM14Y60Gdjz2CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594860231426-km29qe73t3s99hopc1ul3hokd42tqb2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
